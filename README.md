@@ -19,3 +19,18 @@ File overview:
 
 * `machine_learning.ipynb` - the main project code
 * `data_prep.ipynb` - the code to generate the team-level dataset from an athlete-level dataset
+
+# Tools I have used:
+
+* Python 3.8+
+* Python packages
+    * pandas
+    * numpy
+    * scikit-learn
+    * seaborn
+
+
+## Data
+
+We'll be using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+
